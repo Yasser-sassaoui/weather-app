@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+input {
+  padding: 10px;
+  margin: 20px;
+  width: 200px;
+}
+
+.error-message {
+  color: red;
+}
+
+.weather-info {
+  margin-top: 20px;
+}
